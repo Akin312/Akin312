@@ -4,7 +4,7 @@
 
 📍 Bursa, Turkey
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_https://www.linkedin.com/in/ak%C4%B1n-%C3%B6zbay-4a32b138b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_[https://www.linkedin.com/in/ak%C4%B1n-%C3%B6zbay-4a32b138b/](https://www.linkedin.com/in/ak%C4%B1n-%C3%B6zbay-4a32b138b/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/1/?hl=tr#inbox)
 
 ---
