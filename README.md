@@ -12,7 +12,7 @@
 ## 🚀 **About Me**
 
 ```python
-class junior Developer:
+class Junior Developer:
     def __init__(self):
         self.name = "[Akin_Özbay]"
         self.age = [18]
